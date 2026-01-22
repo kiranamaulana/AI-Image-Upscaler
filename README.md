@@ -21,3 +21,4 @@ AI Image Upscaler
 📥 Download Model
 Jika file model belum ada, 
 silakan unduh di sini:<a href="https://github.com/xinntao/Real-ESRGAN/releases/download/v0.1.0/RealESRGAN_x4plus.pth"> RealESRGAN_x4plus.pth</a>
+Untuk Aplikasi yang sudah jadi tinggal pakai silahkan downlod di <a href="https://tutorbangyos.blogspot.com/2026/01/jangan-hapus-foto-burammu-cara.html">SINI</a>
